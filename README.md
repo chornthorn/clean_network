@@ -1,9 +1,8 @@
 # Flutter Clean Network Layer Package
 
 With Flutter's clean network layer, you can dynamically decode models, handle network errors, and create dynamic requests for each client.
+![compare](https://user-images.githubusercontent.com/36778896/137317806-c1280af1-0546-4ec1-9873-0e4b2e9122df.jpeg)
 
-
-![](assets/compare.jpeg)
 
 ## Packages used
 ```yaml
